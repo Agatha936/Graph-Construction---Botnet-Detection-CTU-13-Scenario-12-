@@ -1,1 +1,1 @@
-# Graph-Construction---Botnet-Detection-CTU-13-Scenario-12-
+# Graph Construction-Botnet Detection CTU-13 Scenario 12
